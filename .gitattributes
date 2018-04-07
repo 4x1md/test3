@@ -1,2 +1,5 @@
 *.kicad_pcb linguist-detectable=true
 *.asc linguist-detectable=true
+*.plt linguist-detectable=true
+*.net linguist-detectable=true
+*.lib linguist-detectable=true
