@@ -1,4 +1,5 @@
 pcb/phone_rtty_rev_a/* linguist-detectable=true
+pcb/phone_rtty_rev_b/* linguist-detectable=true
 *.asc linguist-detectable=true
 *.plt linguist-detectable=true
 *.net linguist-detectable=true
