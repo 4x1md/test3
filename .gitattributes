@@ -1,4 +1,4 @@
-*.kicad_pcb linguist-detectable=true
+# *.kicad_pcb linguist-detectable=true
 *.pro linguist-detectable=true
 *.sch linguist-detectable=true
 ltspice/* linguist-detectable=true
