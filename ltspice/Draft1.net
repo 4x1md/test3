@@ -1,0 +1,11 @@
+* X:\phone_rtty_interface\ltspice\Draft1.asc
+R1 vcc N001 10K
+R2 N001 0 1K
+V1 vcc 0 SINE(0 1 1000)
+C1 N001 0 0.1µ V=16 Irms=728m Rser=0.14361 Lser=0 mfg="KEMET" pn="C0603C104K4RAC" type="X7R"
+L1 N001 0 10m
+L2 0 out 50m
+.tran 5ms
+k L1 L2 1
+.backanno
+.end
