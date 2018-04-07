@@ -1,2 +1,2 @@
 *.kicad_pcb linguist-detectable=true
-ltspice/* linguist-detectable=true
+ltspice/*.asc linguist-detectable=true
